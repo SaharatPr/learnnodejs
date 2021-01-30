@@ -1,0 +1,25 @@
+{
+  "name": "learn-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaharatPr/learnnodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "api",
+    "express"
+  ],
+  "author": "Saharat@2020",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaharatPr/learnnodejs/issues"
+  },
+  "homepage": "https://github.com/SaharatPr/learnnodejs#readme"
+}
